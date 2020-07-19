@@ -1,5 +1,4 @@
-import React from 'react'
-import Dinner from './dinner';
+import React from 'react';
 
 function Resturent(props){
     return(
